@@ -7,7 +7,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class Main {
+public class MainA4 {
     public static void main(String[] args) throws IOException {
         //EXERCICI 1.5
         System.out.println("------------------------------------------------------------------------------");
